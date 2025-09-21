@@ -1,4 +1,4 @@
-Count the number of semitones between the notes of the medical critical alarm melody  (CEI 601.1.8)
+Count the number of semitones between the notes of a medical critical alarm melody  (CEI 601.1.8)
 
 Why? Because the manufacturer is authorized to transpose the melodic scheme with a C3 between 150 and 500Hz.
 
