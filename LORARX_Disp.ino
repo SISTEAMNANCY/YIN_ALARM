@@ -1,12 +1,8 @@
 
-/*
-  Code Base from RadioLib: https://github.com/jgromes/RadioLib/tree/master/examples/SX126x
-
-  For full API reference, see the GitHub Pages
+/*Adapted from
   https://jgromes.github.io/RadioLib/
 */
-// Turns the 'PRG' button into the power button, long press is off 
-#define HELTEC_POWER_BUTTON  
+  
 
 
 
